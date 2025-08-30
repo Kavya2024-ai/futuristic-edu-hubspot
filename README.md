@@ -1,12 +1,38 @@
-# React + Vite
+# Futuristic Edu Hubspot — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive portfolio website built with **React + Vite + Tailwind CSS**.
 
-Currently, two official plugins are available:
+🌐 **Live Website**: [View Here](https://futuristic-edu-hubspot.vercel.app/)  
+💻 **GitHub Repo**: [This Repository](https://github.com/Kavya2024-ai/futuristic-edu-hubspot)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- Responsive design (mobile & desktop)  
+- Multiple pages: Home, About, Services, Why Us, Market, Team, Contact  
+- Contact form with EmailJS integration  
+- Deployed on Vercel  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Run Locally
+
+
+# Clone repo
+git clone https://github.com/Kavya2024-ai/futuristic-edu-hubspot.git
+cd futuristic-edu-hubspot
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+Contact
+
+👩‍💻 Developer
+
+Kavya
+📩 edigakavya369@gmail.com
+
+
