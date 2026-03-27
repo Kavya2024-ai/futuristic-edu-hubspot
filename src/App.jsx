@@ -6,7 +6,8 @@ import WhyChooseUs from "./Pages/WhyChooseUs";
 import Market from "./Pages/Market";
 import Team from "./Pages/Team";
 import Contact from "./Pages/Contact";
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route , Navigate} from "react-router-dom";
+
 
 export default function App() {
   return (
@@ -19,6 +20,7 @@ export default function App() {
         <Route path="/market" element={<Market />} />
         <Route path="/team" element={<Team />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path = "*" element={<Navigate to="/"/>}/>
       </Routes>
     </Layout>
   );
