@@ -5,10 +5,10 @@ export default function Home() {
       <section className="w-full bg-gradient-to-r from-blue-600 to-indigo-700 text-white">
         <div className="w-full px-6 py-12 text-center">
           <h1
-            className="text-4xl md:text-6xl font-extrabold leading-tight"
+            className="text-4xl md:text-4xl font-extrabold leading-tight"
             style={{ fontFamily: "Inter, sans-serif" }}
           >
-            Futuristic Edu Hubspot Pvt Ltd
+            VAYKR ACADEMY Pvt Ltd
           </h1>
           <p
             className="mt-4 max-w-2xl mx-auto text-lg text-blue-100"

@@ -8,7 +8,7 @@ export default function Services() {
       </h1>
 
       <p className="text-lg text-center mb-10">
-        At Futuristic Edu Hubspot, we deliver high-quality services designed to 
+        At VAYKR Academy, we deliver high-quality services designed to 
         support students, institutions, and professionals at every stage of 
         their journey.
       </p>

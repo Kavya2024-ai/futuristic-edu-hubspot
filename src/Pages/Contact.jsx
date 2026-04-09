@@ -66,9 +66,9 @@ export default function Contact() {
 
       {/* Contact Info */}
       <div className="mt-8 text-gray-700">
-        <p><span className="font-semibold">Email:</span> contact@futuristichubspot.com</p>
-        <p><span className="font-semibold">Phone:</span> +91 98765 43210</p>
-        <p><span className="font-semibold">Address:</span> Hyderabad, Telangana, India</p>
+        <p><span className="font-semibold">Email:</span> taxon.educouns50@outlook.com</p>
+        <p><span className="font-semibold">Phone:</span> +91 9036705369</p>
+        <p><span className="font-semibold">Address:</span> Patel Nagar, Bellary, Karnataka</p>
       </div>
     </div>
   );

@@ -9,10 +9,11 @@ export default function About() {
         {/* Left side - Text */}
         <div>
           <p className="text-lg leading-relaxed mb-4">
-            Futuristic Edu Hubspot is a forward-thinking educational consultancy
-            dedicated to shaping bright futures. With years of expertise in guiding
-            students, institutions, and professionals, we provide solutions that
-            bridge the gap between ambition and achievement.
+            At VAYKR Academy, we focus on empowering learners in areas such as commerce,
+            finance, administration, technology, and professional skills. We believe that education 
+            should be accessible, practical, and aligned with real-world applications. Our programs are 
+            designed not only to enhance knowledge but also to build confidence, critical thinking, and 
+            professional capability.
           </p>
           <p className="text-lg leading-relaxed mb-4">
             Our mission is to empower learners with the right knowledge, skills,
