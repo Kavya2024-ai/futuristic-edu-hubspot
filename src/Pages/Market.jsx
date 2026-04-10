@@ -7,7 +7,7 @@ export default function Market() {
         {/* Left - Content */}
         <div>
           <p className="text-lg leading-relaxed mb-4">
-            VAYKAR Academy has a growing footprint across India and international
+            VAYKR Academy has a growing footprint across India and international
             markets. By partnering with universities, training institutes, and industry
             leaders, we are consistently expanding our reach to serve a diverse community
             of learners and professionals.

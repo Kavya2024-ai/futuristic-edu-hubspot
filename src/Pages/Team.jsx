@@ -11,11 +11,11 @@ export default function Team() {
           Director's Message
         </h2>
 
-        <div className="bg-white border rounded-xl shadow p-6">
+        <div className="bg-white border rounded-xl shadow p-6 ">
           <img
-            src="/director.jpg"  // 👉 put image in public folder
+            src="/director.jpeg"  // 👉 put image in public folder
             alt="Director"
-            className="w-32 h-32 mx-auto rounded-full object-cover mb-4"
+            className="w-32 h-32 mx-auto rounded-full object-cover mb-4 border-1  shadow-lg"
           />
 
           <h3 className="text-xl font-semibold text-indigo-600">
