@@ -27,7 +27,7 @@ export default function About() {
         <div>
           <img
             src="https://source.unsplash.com/600x400/?education,students"
-            alt="About Futuristic Edu Hubspot"
+            alt="About VAYKR Academy"
             className="rounded-2xl shadow-lg"
           />
         </div>
